@@ -68,9 +68,14 @@ h1 {
   top: -20vh
 }
 
-.title-logo {
+.title-logo-link {
+  height: auto;
   margin-left: 5%;
-  height: 190%;
+}
+
+.title-logo {
+  margin-top: 0.3vh;
+  height: 11vh;
 }
 
 nav ul {
